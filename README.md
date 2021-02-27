@@ -14,13 +14,16 @@ Your users should be able to:
 - View the optimal layout for the component depending on their device's screen size
 - Navigate the slider using either their mouse/trackpad or keyboard
 
+## Languages :computer: 
 
-
+- **HTML** 
+- **CSS**
+- **Javascript**
 
 ## Sharing your solution
 
-
+Click [HERE](https://coding-bootcamp-testimonials-slider-pi.vercel.app) to see the solution.
 
 ## Giving feedback
 
-Feedback is always welcome, so if you have any to give on this challenge please email hi[at]frontendmentor[dot]io.
+Feedback is always welcome, so if you have any to give on this challenge please email gcgonzalez99@hotmail.com
